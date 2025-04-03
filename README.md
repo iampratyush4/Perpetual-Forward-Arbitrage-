@@ -140,6 +140,3 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 Special thanks to the open-source community and Binance’s robust API infrastructure that made this project possible. Also, shoutout to developers exploring the edge of crypto market efficiency!
 ```
-
----
-
