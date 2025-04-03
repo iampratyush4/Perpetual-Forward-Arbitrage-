@@ -1,5 +1,4 @@
 
-```markdown
 # Perpetual Futures Arbitrage Bot
 
 This project is a Python-based arbitrage bot designed to detect and capitalize on price discrepancies between spot and perpetual futures markets—primarily on Binance. It supports real-time monitoring, risk management, and is configurable for custom strategies. This tool is ideal for algorithmic traders, developers, and researchers studying market inefficiencies.
