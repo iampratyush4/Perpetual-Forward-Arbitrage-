@@ -1,0 +1,7 @@
+ccxt
+ccxt[async]
+asyncpg
+websockets
+python-dotenv
+pandas
+pytz
